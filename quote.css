@@ -1,0 +1,51 @@
+
+#body{
+	background-image: url(3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#box{
+	display: block;
+	background-color: #CCD3F3;
+	height: 45%;
+	width: 43%;
+	margin-top: 200px;
+	margin-left: 350px;
+	color: black;
+	font-size: 35px; 
+
+}
+
+
+#para{
+	padding-left: 30px;
+	padding-top:90px; 
+}
+
+
+
+#author{
+	text-align: right;
+	font-size: 20px;
+	padding-right: 30px;
+	padding-top: 3px;
+	text-shadow: 2px 2px #ff0000;
+
+}
+
+.button{
+	width: 100px;
+	height: 40px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+
+
+
+}
+
+.button:hover {
+	outline-color: blue;
+	cursor: pointer;
+
+}
